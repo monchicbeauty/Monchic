@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Monchic Pages
 
-You can use the [editor on GitHub](https://github.com/monchicbeauty/Monchic/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Bạn đang truy cập vào trang web của Monchic Beauty
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Đây là trang web chia sẻ trải nghiệm về du lịch, dã ngoại, leo núi,... ở tất cả các địa điểm Monchic đã từng đến.
 
-### Markdown
+### Trải nghiệm
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Trải nghiệm là tất cả những gì bạn trải qua, những cảnh quan, con người bạn gặp, những giá văn hóa bạn thấy được trên những hành trình của mình.
 
-```markdown
-Syntax highlighted code block
+Các bạn có thể xem thêm những chuyến đi của mình tại thư mục Trải nghiệm
 
-# Header 1
-## Header 2
-### Header 3
+### Phương châm sống
 
-- Bulleted
-- List
+Tôi đã từng đi nhiều nơi, gặp gỡ nhiều người, và những hành trình trải nghiệm đáng nhớ đó càng làm cho khát vọng khám phá đất nước này, thế giới này mãnh liệt hơn!
 
-1. Numbered
-2. List
+### Liên hệ với Monchic
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/monchicbeauty/Monchic/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Gửi email cho tôi tới địa chỉ: monchic.beauty@gmail.com
